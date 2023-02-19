@@ -1,23 +1,20 @@
-import logo from './logo.svg';
+
 import './App.css';
+import  './leaderboard.css';
+
+import Leaderboard from './components/Leaderboard';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+      <h1>Learnable Leaderboard</h1>
+      <div className='p-tag'>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+        here is the Leaderboard app assignment built with react . i still have to work on my functionality and understanding of react.
+
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      </div>
+      <Leaderboard/>
     </div>
   );
 }

@@ -1,10 +1,24 @@
 .App {
   text-align: center;
+  background-color:skyblue;
+  padding: 10px;
+}
+.App h1{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 40px;
+  padding:10px;
+  
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+.p-tag{
+  text-transform: capitalize;
+  line-height:18px;
+  padding-bottom:10px;
+  /* font-weight:700; */
 }
 
 @media (prefers-reduced-motion: no-preference) {
