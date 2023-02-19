@@ -1,9 +1,10 @@
 import Frontend from "../intern-file/Front-end";
 import Intern from "./Intern";
 import { useState } from "react";
-import  
+
 
 function Leaderboard() {
+
   const [FrontendInterns, setFrontendInterns] = useState(Frontend);
 //   console.log(FrontendInterns.interns)
 
