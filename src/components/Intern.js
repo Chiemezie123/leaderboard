@@ -1,9 +1,10 @@
 function Intern(props) {
-// here
+// vjbjwnbowwoovnvof
     const intern = props.internData;
 
     return (
       <>
+      
         <tr>
           <td>
             <img src={intern.imgSrc} alt="profile"/>
