@@ -86,7 +86,7 @@ const Frontend = {
       imgSrc: pic2,
       bonus: 0,
       strikes: 0,
-      appre:"he is improving and a very smart kid",
+      appre:"he is very focused and observant",
       attendance: 83,
       appraisals: {
         one: 4,
@@ -135,7 +135,7 @@ const Frontend = {
       imgSrc:pic3,
       bonus: 0,
       strikes: 0,
-      appre:"he is improving and a very smart kid",
+      appre:"he has the passion and zeal to become the best",
       attendance: 93,
       appraisals: {
         one: 4,
@@ -184,7 +184,7 @@ const Frontend = {
       imgSrc:pic4,
       bonus: 0,
       strikes: 0,
-      appre:"he is improving and a very smart kid",
+      appre:"she is a brilliant and diligent girl.her presence is very impactful",
       attendance: 100,
       appraisals: {
         one: 4,
@@ -233,7 +233,7 @@ const Frontend = {
       imgSrc:pic5,
       bonus: 0,
       strikes: 1,
-      appre:"he is improving and a very smart kid",
+      appre:"he is good at what he does ",
       attendance: 86,
       appraisals: {
         one: 4,
@@ -282,7 +282,7 @@ const Frontend = {
       imgSrc: pic6,
       bonus: 0,
       strikes: 1,
-      appre:"he is improving and a very smart kid",
+      appre:"he is bright but still has a lot to work on ",
       attendance: 100,
       appraisals: {
         one: 4,
@@ -331,7 +331,7 @@ const Frontend = {
       imgSrc: pic7,
       bonus: 0,
       strikes: 0,
-      appre:"he is improving and a very smart kid",
+      appre:"he plays a lot",
       attendance: 100,
       appraisals: {
         one: 4,
@@ -429,7 +429,7 @@ const Frontend = {
       imgSrc:pic9,
       bonus: 0,
       strikes: 1,
-      appre:"he is improving and a very smart kid",
+      appre:"chioma should be more focused she can do better than this",
       attendance: 83,
       appraisals: {
         one: 3,

@@ -26,7 +26,7 @@ function reverseArray() {
 }
   return (
     <>
-      <button onClick={reverseArray}>
+      <button className="button" onClick={reverseArray}>
            Bottom to top
       </button>
       <table>

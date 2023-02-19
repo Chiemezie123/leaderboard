@@ -1,3 +1,6 @@
+import './intern.css';
+
+
 function Intern(props) {
 // vjbjwnbowwoovnvof
     const intern = props.internData;
@@ -5,9 +8,9 @@ function Intern(props) {
     return (
       <>
       
-        <tr>
-          <td>
-            <img src={intern.imgSrc} alt="profile"/>
+        <tr className='once'>
+          <td className="balabulu">
+            <img className='img' src={intern.imgSrc} alt="profile"/>
             {intern.firstName} {intern.lastName}
           </td>
           <td> {intern.attendance} </td>
